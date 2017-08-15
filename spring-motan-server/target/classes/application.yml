@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+spring:
+  output.ansi.enabled: always
+
+endpoints:
+  restart:
+    enabled: true
+  shutdown:
+    enabled: true
+  health:
+    sensitive: false
+    
+management:
+  security:
+    enabled: false

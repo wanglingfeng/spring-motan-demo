@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-motan-client/spring-motan-client.iml" filepath="$PROJECT_DIR$/spring-motan-client/spring-motan-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-motan-server/spring-motan-server.iml" filepath="$PROJECT_DIR$/spring-motan-server/spring-motan-server.iml" />
+    </modules>
+  </component>
+</project>
